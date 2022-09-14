@@ -1,2 +1,2 @@
 # Pytho22
-A repository with Unix Shell and Python Code
+My repository of Shell and Python Code
