@@ -1,2 +1,2 @@
-# Pytho22
-My repository of Shell and Python Code
+# Python Programming 2022
+Repository of Shell and Python Code
